@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/FU/HL/EJB/Demo/JWebMVCDemo/web/index.html</file>
+            <file>file:/E:/FU/HL/EJB/Demo/JWebMVCDemo/web/view/student/list.jsp</file>
+            <file>file:/E:/FU/HL/EJB/Demo/JWebMVCDemo/web/WEB-INF/web.xml</file>
+            <file>file:/E:/FU/HL/EJB/Demo/JWebMVCDemo/web/view/account/login.jsp</file>
+            <file>file:/E:/FU/HL/EJB/Demo/JWebMVCDemo/src/java/model/BaseModel.java</file>
+            <file>file:/E:/FU/HL/EJB/Demo/JWebMVCDemo/src/java/controller/AccountController.java</file>
+            <file>file:/E:/FU/HL/EJB/Demo/JWebMVCDemo/build.xml</file>
+            <file>file:/E:/FU/HL/EJB/Demo/JWebMVCDemo/web/view/student/create.jsp</file>
+            <file>file:/E:/FU/HL/EJB/Demo/JWebMVCDemo/src/java/model/Student.java</file>
+            <file>file:/E:/FU/HL/EJB/Demo/JWebMVCDemo/src/java/controller/BaseRequiredLoginController.java</file>
+            <file>file:/E:/FU/HL/EJB/Demo/JWebMVCDemo/src/java/controller/StudentController.java</file>
+            <file>file:/E:/FU/HL/EJB/Demo/JWebMVCDemo/src/java/model/StudentList.java</file>
+            <file>file:/E:/FU/HL/EJB/Demo/JWebMVCDemo/src/java/model/Account.java</file>
+        </group>
+    </open-files>
+</project-private>

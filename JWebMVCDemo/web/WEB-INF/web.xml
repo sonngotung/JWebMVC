@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="3.1" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd">
+    <servlet>
+        <servlet-name>NondirectedAccess</servlet-name>
+        <servlet-class>com.fpt.mvc.view.NondirectedAccess</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>AccountController</servlet-name>
+        <servlet-class>controller.AccountController</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>StudentController</servlet-name>
+        <servlet-class>controller.StudentController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>NondirectedAccess</servlet-name>
+        <url-pattern>/view/validateview</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>AccountController</servlet-name>
+        <url-pattern>/account/*</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>StudentController</servlet-name>
+        <url-pattern>/student/*</url-pattern>
+    </servlet-mapping>
+    <session-config>
+        <session-timeout>
+            30
+        </session-timeout>
+    </session-config>
+</web-app>
