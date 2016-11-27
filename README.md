@@ -5,7 +5,7 @@ Advantages:
 + Helps develop more coherent website.
 + Easy to integrate with other enterprise standards such as EJB, JPA
 Disadvantages:
-+ Does not include Request Param to Action Param Mapping process.
++ support Request Param to Action Param Mapping process.
 + The routing is relatively rigid
 
 
