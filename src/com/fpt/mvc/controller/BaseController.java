@@ -92,7 +92,7 @@ public abstract class BaseController extends HttpServlet {
         return params.toArray();
     }
     
-    private <O,I> O convert(I input,Class<O> otype)
+    private <O> O convert(Object input,Class<O> otype)
     {
         return (O)input;
     }
@@ -150,7 +150,6 @@ public abstract class BaseController extends HttpServlet {
 
         try {
             MVCHelper.setModel(request, model);
-
             request.getRequestDispatcher("../view/" + controller + "/" + action + ".jsp").forward(request, response);
         } catch (ServletException | IOException ex) {
             Logger.getLogger(BaseController.class.getName()).log(Level.SEVERE, null, ex);

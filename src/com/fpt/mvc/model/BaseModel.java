@@ -5,8 +5,6 @@
  */
 package com.fpt.mvc.model;
 
-import java.sql.Connection;
-
 /**
  *
  * @author sonnt

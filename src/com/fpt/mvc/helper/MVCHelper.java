@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
  */
 public class MVCHelper {
     
-    public static final String GET_MODEL_ATTRIBUTE = "get_model_attribute"; 
+    public static final String GET_MODEL_ATTRIBUTE = "model"; 
     public static final String REQUEST_METHOD_GET = "GET";
     public static final String REQUEST_METHOD_POST = "POST";
     public static final String COOKIE_LOGIN_USER = "COOKIE_LOGIN_USER";

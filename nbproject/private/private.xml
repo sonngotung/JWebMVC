@@ -3,16 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/E:/FU/HL/EJB/Demo/JWebMVC/src/com/fpt/mvc/model/ModelEntityTable.java</file>
             <file>file:/E:/FU/HL/EJB/Demo/JWebMVC/src/com/fpt/mvc/controller/RequestParam.java</file>
-            <file>file:/E:/FU/HL/EJB/Demo/JWebMVC/src/com/fpt/mvc/controller/RequestParamMapping.java</file>
-            <file>file:/E:/FU/HL/EJB/Demo/JWebMVC/src/com/fpt/mvc/controller/POST.java</file>
-            <file>file:/E:/FU/HL/EJB/Demo/JWebMVC/src/com/fpt/mvc/model/ModelEntityInstance.java</file>
             <file>file:/E:/FU/HL/EJB/Demo/JWebMVC/src/com/fpt/mvc/helper/MVCHelper.java</file>
             <file>file:/E:/FU/HL/EJB/Demo/JWebMVC/src/com/fpt/mvc/model/BaseModel.java</file>
             <file>file:/E:/FU/HL/EJB/Demo/JWebMVC/src/com/fpt/mvc/controller/BaseController.java</file>
-            <file>file:/E:/FU/HL/EJB/Demo/JWebMVC/src/com/fpt/mvc/controller/PreProcessing.java</file>
-            <file>file:/E:/FU/HL/EJB/Demo/JWebMVC/src/com/fpt/mvc/controller/GET.java</file>
         </group>
     </open-files>
 </project-private>
